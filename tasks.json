@@ -1,0 +1,20 @@
+[
+    {
+        "taskid": 1,
+        "title": "gym",
+        "status": "pending",
+        "description": "exercise atleast once a day  "
+    },
+    {
+        "taskid": 2,
+        "title": "drink water",
+        "status": "completed",
+        "description": "drink atleast 1 glass of water"
+    },
+    {
+        "taskid": 3,
+        "title": "Wakeup",
+        "status": "completed",
+        "description": "Wakeup at 5am "
+    }
+]
